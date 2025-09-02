@@ -20,7 +20,6 @@ def read_item(item_id: int, q: str = None):
 
 # https://github.com/matsuteru82/my-fastapi-project/tree/main
 
-
 # https://kika-barcode-app.onrender.com/items/123
 
 # https://kika-barcode-app.onrender.com/items/123?q=test
